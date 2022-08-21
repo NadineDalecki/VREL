@@ -1,0 +1,20 @@
+{
+    "Avrel": {
+        "spreadsheetID": "1LJ1feFfh69kEIM_oSfcSDvB-wYfrOzOj1Bdz6IIvhAI",
+        "guildId": "424911215714631690",
+        "prefix": "?",
+        "adminRoles": [
+            
+        ],
+        "logChannel": "718176504437276682",
+        "logDel": false,
+        "logEdit": false,
+        "logTimeout": false,
+        "status": "online",
+        "activity": {
+            "name": "the Game 💯",
+            "type": "PLAYING",
+            "url": "https://discord.com"
+        }
+    }
+}
